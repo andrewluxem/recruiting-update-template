@@ -1,0 +1,23 @@
+{
+  "name": "recruiting-update-template",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Andrew Luxem"
+  },
+  "description": "Builds an aggregate recruiting update with funnel evidence, blockers, owners, and decisions. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "plugins": [
+    {
+      "name": "recruiting-update-template",
+      "version": "1.0.0",
+      "source": "./",
+      "description": "Builds an aggregate recruiting update with funnel evidence, blockers, owners, and decisions. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+      "category": "productivity",
+      "tags": [
+        "agent-skills",
+        "claude-code",
+        "recruiting-update",
+        "hiring-operations"
+      ]
+    }
+  ]
+}
