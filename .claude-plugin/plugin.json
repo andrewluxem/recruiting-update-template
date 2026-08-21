@@ -1,0 +1,17 @@
+{
+  "name": "recruiting-update-template",
+  "version": "1.0.0",
+  "description": "Builds an aggregate recruiting update with funnel evidence, blockers, owners, and decisions. Static: no network calls, no remote fetch, no telemetry, and no auto-update.",
+  "author": {
+    "name": "Andrew Luxem"
+  },
+  "homepage": "https://github.com/andrewluxem/recruiting-update-template",
+  "repository": "https://github.com/andrewluxem/recruiting-update-template",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "recruiting-update",
+    "hiring-operations"
+  ]
+}
